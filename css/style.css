@@ -1,9 +1,26 @@
+body {
+  font-family: "Varela Round", sans-serif;
+}
+
 .container {
   display: flex;
   justify-content: space-between;
+  font-family: "Varela Round", sans-serif;
 }
 
 button {
-  height: 50px;
-  width: 50px;
+  height: 30px;
+  width: 100px;
+  font-family: "Varela Round", sans-serif;
+  font-size: 15px;
+}
+
+select {
+  font-family: "Varela Round", sans-serif;
+  font-size: 15px;
+}
+
+p{
+  text-align: center;
+  margin-top: 18%;
 }
